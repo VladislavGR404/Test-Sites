@@ -36,8 +36,6 @@
 
 ### 2. Установка зависимостей
 ```bash
-pip install pytest selenium webdriver-manager
-
 pip install -r requirements.txt
  ```
 
