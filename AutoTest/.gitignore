@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.pytest_cache/
+.cache/
+
+# Virtual environment
+venv/
+env/
+
+# VS Code
+.vscode/
+.idea
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Selenium logs/screenshots
+screenshots/
+selenium.log
+
+# Environment variables or secrets
+.env
+
+# WebDriver executables (если сохраняете вручную)
+chromedriver
+chromedriver.exe
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Git metadata
+*.swp
